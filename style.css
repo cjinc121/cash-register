@@ -1,0 +1,37 @@
+body {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+
+  font-family: "Montserrat", sans-serif;
+}
+p {
+  text-decoration-color: rgb(27, 131, 96);
+  font-weight: bolder;
+}
+textarea {
+  border-style: solid;
+  border-color: rgb(27, 131, 96);
+  border-radius: 1rem;
+  padding: 0.5rem;
+  display: block;
+  margin: auto;
+}
+.btn {
+  padding: 0.5rem;
+  margin: 10px auto;
+  border-radius: 1rem;
+  background-color: rgb(27, 131, 96);
+  border-color: black;
+  width: 70px;
+}
+table {
+  margin: auto;
+}
+table,
+th,
+td {
+  border: 1px solid rgb(27, 131, 96);
+  border-collapse: collapse;
+  padding: 0.2rem;
+}

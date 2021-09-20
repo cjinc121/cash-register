@@ -5,6 +5,9 @@ body {
 
   font-family: "Montserrat", sans-serif;
 }
+.container {
+  margin: auto;
+}
 p {
   text-decoration-color: rgb(27, 131, 96);
   font-weight: bolder;
@@ -13,6 +16,7 @@ textarea {
   border-style: solid;
   border-color: rgb(27, 131, 96);
   border-radius: 1rem;
+  width: 200px;
   padding: 0.5rem;
   display: block;
   margin: auto;
@@ -27,6 +31,7 @@ textarea {
 }
 table {
   margin: auto;
+  width: 60%;
 }
 table,
 th,

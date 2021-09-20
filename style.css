@@ -21,6 +21,9 @@ textarea {
   display: block;
   margin: auto;
 }
+td {
+  font-weight: bolder;
+}
 .btn {
   padding: 0.5rem;
   margin: 10px auto;

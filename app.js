@@ -7,7 +7,7 @@ button.addEventListener("click",()=>{
   hide();
   if(bill.value>0)
   {var bal=cash.value-bill.value;
-    if(bal>0)
+    if(bal>=0)
     {
       
       var arr=[2000,500,100,20,10,5,1];
